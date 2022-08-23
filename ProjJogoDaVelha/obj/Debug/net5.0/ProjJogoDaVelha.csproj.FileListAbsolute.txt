@@ -1,0 +1,16 @@
+C:\Users\Thalya\source\repos\ProjJogoDaVelha\ProjJogoDaVelha\bin\Debug\net5.0\ProjJogoDaVelha.exe
+C:\Users\Thalya\source\repos\ProjJogoDaVelha\ProjJogoDaVelha\bin\Debug\net5.0\ProjJogoDaVelha.deps.json
+C:\Users\Thalya\source\repos\ProjJogoDaVelha\ProjJogoDaVelha\bin\Debug\net5.0\ProjJogoDaVelha.runtimeconfig.json
+C:\Users\Thalya\source\repos\ProjJogoDaVelha\ProjJogoDaVelha\bin\Debug\net5.0\ProjJogoDaVelha.runtimeconfig.dev.json
+C:\Users\Thalya\source\repos\ProjJogoDaVelha\ProjJogoDaVelha\bin\Debug\net5.0\ProjJogoDaVelha.dll
+C:\Users\Thalya\source\repos\ProjJogoDaVelha\ProjJogoDaVelha\bin\Debug\net5.0\ProjJogoDaVelha.pdb
+C:\Users\Thalya\source\repos\ProjJogoDaVelha\ProjJogoDaVelha\obj\Debug\net5.0\ProjJogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\Thalya\source\repos\ProjJogoDaVelha\ProjJogoDaVelha\obj\Debug\net5.0\ProjJogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thalya\source\repos\ProjJogoDaVelha\ProjJogoDaVelha\obj\Debug\net5.0\ProjJogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\Thalya\source\repos\ProjJogoDaVelha\ProjJogoDaVelha\obj\Debug\net5.0\ProjJogoDaVelha.AssemblyInfo.cs
+C:\Users\Thalya\source\repos\ProjJogoDaVelha\ProjJogoDaVelha\obj\Debug\net5.0\ProjJogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\Thalya\source\repos\ProjJogoDaVelha\ProjJogoDaVelha\obj\Debug\net5.0\ProjJogoDaVelha.dll
+C:\Users\Thalya\source\repos\ProjJogoDaVelha\ProjJogoDaVelha\obj\Debug\net5.0\refint\ProjJogoDaVelha.dll
+C:\Users\Thalya\source\repos\ProjJogoDaVelha\ProjJogoDaVelha\obj\Debug\net5.0\ProjJogoDaVelha.pdb
+C:\Users\Thalya\source\repos\ProjJogoDaVelha\ProjJogoDaVelha\obj\Debug\net5.0\ProjJogoDaVelha.genruntimeconfig.cache
+C:\Users\Thalya\source\repos\ProjJogoDaVelha\ProjJogoDaVelha\obj\Debug\net5.0\ref\ProjJogoDaVelha.dll
